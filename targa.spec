@@ -2,7 +2,7 @@ Summary:	MS Windows95/98/NT testing kit
 Summary(pl):	Narzêdzie testuj±ce MS Windows-95/98/NT
 Name:		targa
 Version:	2.1
-Release:	2
+Release:	3
 License:	GPL
 Group:		Applications/System
 Source0:	%{name}.c
