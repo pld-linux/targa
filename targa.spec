@@ -5,7 +5,7 @@ Group:		Applications/System
 Group(de):	Applikationen/System
 Group(pl):	Aplikacje/System
 Version:	2.1
-Release:	1
+Release:	2
 License:	GPL
 Source0:	%{name}.c
 #Source0:	ftp://ftp.ntua.gr/pub/security/technotronic/denial/targa2.c
@@ -26,17 +26,15 @@ i do wykorzystania podczas prezentacji przedstawicieli MS...
 
 %prep
 %setup -c -T -q
-install %{SOURCE0} $RPM_BUILD_DIR/%{name}-%{version}
+install %{SOURCE0} .
 
 %build
-cd $RPM_BUILD_DIR/%{name}-%{version}
 %{__cc} %{rpmcflags} %{rpmldflags} -o targa targa.c
 
 %install
 rm -rf $RPM_BUILD_ROOT
-cd $RPM_BUILD_DIR/%{name}-%{version}
-
 install -d $RPM_BUILD_ROOT%{_sbindir}
+
 install targa $RPM_BUILD_ROOT%{_sbindir}
 
 %clean
