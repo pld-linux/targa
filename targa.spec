@@ -3,7 +3,7 @@ Summary(pl):	Narzêdzie testuj±ce M$ Windows-95/98/NT
 Name:		targa
 Group:		Utilities/System
 Group(pl):	Narzêdzia/System
-Version:	2.0
+Version:	2.1
 Release:	1
 License:	GPL
 Source0:	targa.c
