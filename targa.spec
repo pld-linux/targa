@@ -8,7 +8,7 @@ Release:	1
 License:	GPL
 Source0:	targa.c
 URL:		http://www.rootshell.com
-Buildroot:	/tmp/%{name}-%{version}-root
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Obsoletes:	nuks
 
 %description
