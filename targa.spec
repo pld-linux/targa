@@ -8,7 +8,8 @@ Version:	2.1
 Release:	1
 License:	GPL
 Source0:	%{name}.c
-URL:		http://www.rootshell.com
+#Source0:	ftp://ftp.ntua.gr/pub/security/technotronic/denial/targa2.c
+URL:		http://www.rootshell.com/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Obsoletes:	nuks
 
