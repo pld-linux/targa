@@ -1,12 +1,12 @@
 Summary:	MS Windows95/98/NT testing kit 
 Summary(pl):	Narzêdzie testuj±ce MS Windows-95/98/NT
 Name:		targa
-Group:		Applications/System
-Group(de):	Applikationen/System
-Group(pl):	Aplikacje/System
 Version:	2.1
 Release:	2
 License:	GPL
+Group:		Applications/System
+Group(de):	Applikationen/System
+Group(pl):	Aplikacje/System
 Source0:	%{name}.c
 #Source0:	ftp://ftp.ntua.gr/pub/security/technotronic/denial/targa2.c
 URL:		http://www.rootshell.com/
