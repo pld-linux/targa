@@ -12,15 +12,15 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Obsoletes:	nuks
 
 %description
-Package includes Targa -- application that cointains bonk, jolt, teardrop,
-newtear, nestea, land, syndrop, winnuke, 1234, saihyousen and oshare.
-For educational purposes only, and for M$ presentation ...
+Package includes Targa -- application that cointains bonk, jolt,
+teardrop, newtear, nestea, land, syndrop, winnuke, 1234, saihyousen
+and oshare. For educational purposes only, and for M$ presentation ...
 
 %description -l pl
 Pakiet zawiera Targê -- aplikacjê zawieraj±c± podprogramy: bonk, jolt,
-teardrop, newtear, nestea, land, syndrop, winnuke, 1234, saiyhousen 
-oshare.. Pakiet ten jest przeznaczony wy³±cznie do celów edukacyjnych i do
-wykorzystania podczas prezentacji przedstawicieli M$...
+teardrop, newtear, nestea, land, syndrop, winnuke, 1234, saiyhousen
+oshare.. Pakiet ten jest przeznaczony wy³±cznie do celów edukacyjnych
+i do wykorzystania podczas prezentacji przedstawicieli M$...
 
 %prep
 %setup -c -T -q
