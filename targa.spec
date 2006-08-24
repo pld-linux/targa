@@ -8,8 +8,8 @@ Group:		Applications/System
 Source0:	%{name}.c
 #Source0:	ftp://ftp.ntua.gr/pub/security/technotronic/denial/targa2.c
 URL:		http://www.rootshell.com/
-BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Obsoletes:	nuks
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Package includes Targa -- application that cointains bonk, jolt,
