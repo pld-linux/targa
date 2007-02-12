@@ -1,5 +1,5 @@
 Summary:	MS Windows95/98/NT testing kit
-Summary(pl):	Narzêdzie testuj±ce MS Windows-95/98/NT
+Summary(pl.UTF-8):   NarzÄ™dzie testujÄ…ce MS Windows-95/98/NT
 Name:		targa
 Version:	2.1
 Release:	4
@@ -16,10 +16,10 @@ Package includes Targa -- application that cointains bonk, jolt,
 teardrop, newtear, nestea, land, syndrop, winnuke, 1234, saihyousen
 and oshare. For educational purposes only, and for MS presentation...
 
-%description -l pl
-Pakiet zawiera Targê -- aplikacjê zawieraj±c± podprogramy: bonk, jolt,
+%description -l pl.UTF-8
+Pakiet zawiera TargÄ™ -- aplikacjÄ™ zawierajÄ…cÄ… podprogramy: bonk, jolt,
 teardrop, newtear, nestea, land, syndrop, winnuke, 1234, saiyhousen
-oshare.. Pakiet ten jest przeznaczony wy³±cznie do celów edukacyjnych
+oshare.. Pakiet ten jest przeznaczony wyÅ‚Ä…cznie do celÃ³w edukacyjnych
 i do wykorzystania podczas prezentacji przedstawicieli MS...
 
 %prep
