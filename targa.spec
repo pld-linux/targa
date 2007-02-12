@@ -1,5 +1,5 @@
 Summary:	MS Windows95/98/NT testing kit
-Summary(pl.UTF-8):   Narzędzie testujące MS Windows-95/98/NT
+Summary(pl.UTF-8):	Narzędzie testujące MS Windows-95/98/NT
 Name:		targa
 Version:	2.1
 Release:	4
